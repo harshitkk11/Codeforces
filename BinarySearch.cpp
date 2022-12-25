@@ -25,8 +25,6 @@ bool search_que(vector<int>A, int target){
 }
 
 signed main(){
-    ios_base::sync_with_stdio(false);
-	cin.tie(NULL);
     int n, k;
     cin>>n>>k;
 
